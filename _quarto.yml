@@ -1,6 +1,6 @@
 project:
   type: website
-  output_dir: docs
+  output-dir: docs
 
 website:
   title: "Quantum Computing at the University of Tartu"
