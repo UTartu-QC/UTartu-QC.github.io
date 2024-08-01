@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Quantum Computing at the University of Tartu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - proandpre.qmd
+      - kvantblog.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+
+
