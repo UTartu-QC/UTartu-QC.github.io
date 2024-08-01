@@ -1,5 +1,6 @@
-# Object file
-*.o
+# Emacs
+*~
 
-# Ada Library Information
-*.ali
+
+/.quarto/
+

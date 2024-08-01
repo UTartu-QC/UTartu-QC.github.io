@@ -1,0 +1,17 @@
+---
+title: "Uus Tarkvara Kvantarvutusblogis"
+author: "Dirk Oliver Theis"
+date: "2024-08-31"
+---
+
+Tere tulemast Kvantarvutusblogi lugejad!
+
+![](thumbnail.jpg)
+
+Meil on hea meel teatada, et meie blogi kasutab nüüd [uut tarkvara: Quarto](https://quarto.org).  See on esimene postitus, mis on loodud ja avaldatud uue tarkvara abil.  Loodame, et see muudatus toob kaasa parema kasutajakogemuse ja võimaldab meil pakkuda teile veelgi kvaliteetsemat sisu.
+
+Kõik postitused, mille kuupäevad on varasemad kui käesolev postitus, on vanast blogist kopeeritud ja
+tagasiulatuvalt avaldatud.  Need postitused võivad seega sisaldada vanemaid viiteid ja vorminguid, kuid kogu sisu
+on hoolikalt üle kantud, et säilitada selle algne väärtus ja informatsioon.
+
+Täname teid mõistva suhtumise eest ja loodame, et naudite meie uut ja parendatud blogi!
