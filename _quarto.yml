@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: quartz
     css: styles.css
     toc: true
 
