@@ -7,10 +7,12 @@ This is the new website of the quantum computing efforts at the University of Ta
 We have for you:
 
 * A list of [ongoing research projects and recent preprints](proandpre.qmd)
+* A few homepages of researchers & students:
+  - Homepage of [Dirk Oliver Theis](homepage/dot.qmd) \
+    [(Assoc. Prof. Theoretical Computer Science, Institute of Computer Science)]{.small}
+  - Homepage of [Shahla Novruzova](homepage/shahla.qmd) \
+    [(doctoral researcher)]{.small}
 * A [quantum computing blog](kvantblog.qmd) in Estonian
-* A couple of homepages of researchers & students:
-  * Homepage of [Dirk Oliver Theis](homepage/dot.qmd) (Assoc. Prof. Theoretical Computer Science, Institute of Computer Science)
-  * Homepage of Shahla Novruzova (doctoral researcher)
 
 ## Tartu Ülikooli Kvantarvutus
 
@@ -18,11 +20,13 @@ Siin on uus koduleht Tartu Ülikooli kvantarvutuse uuringutele.
 
 Pakume teile:
 
-* Käsilolevate [uurimisprojektide ja hiljutiste eellugude nimekirja](proandpre.qmd)
-* [Kvantarvutuse blogi](kvantblog.qmd) eesti keeles
-* Mõne teadlase ja tudengi kodulehed:
-  * [Dirk Oliver Theis](homepage/dot.qmd) koduleht (kaasprofessor teoreetiline arvutiteadus, Arvutiteaduse Instituut)
-  * [Shahla Novruzova](homepage/shahla.qmd) koduleht (doktorant)
+* [Kvantarvutuse blogi](kvantblog.qmd)
+* Käsilolevate [uurimisprojektide ja hiljutiste eellugude nimekirja](proandpre.qmd) (inglise keeles)
+* Mõned teadlaste ja tudengite kodulehed, inglise keeles:
+  - [Dirk Oliver Theis](homepage/dot.qmd) koduleht \
+    [(kaasprofessor teoreetiline arvutiteadus, Arvutiteaduse Instituut)]{.small}
+  - [Shahla Novruzova](homepage/shahla.qmd) koduleht \
+    [(doktorant)]{.small}
 
 
 #### This is a Quarto website
