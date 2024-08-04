@@ -10,7 +10,7 @@ We have for you:
 * A [quantum computing blog](kvantblog.qmd) in Estonian
 * A couple of homepages of researchers & students:
   * Homepage of [Dirk Oliver Theis](homepage/dot.qmd) (Assoc. Prof. Theoretical Computer Science, Institute of Computer Science)
-  * Homepage of Shahla Novruzova (doctoral researcher)
+  * Homepage of [Shahla Novruzova](homepage/shahla.qmd) (doctoral researcher)
 
 ## Tartu Ülikooli Kvantarvutus
 
