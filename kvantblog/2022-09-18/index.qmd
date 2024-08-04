@@ -4,14 +4,25 @@ author: "Dirk Oliver Theis"
 date: "2022-09-18"
 ---
 
-Külmad Rydbergi aatomid optilistes võredes on üks põhikvant-süsteemidest, mida kasutatakse kvantarvutuse algfaasis, näiteks Prantsuse idufirma [Pasqal](https://pasqal.io/), MIT/Harvardi spin-off [QuEra](https://www.quera.com/) (mille tarkvara on [Julias](https://julialang.org/), mitte Pythonis), Berkeley-põhine [Atom Computing](https://atom-computing.com/) ja Boulderis, CO asuv [Cold Quanta](https://coldquanta.com/); EL Pathfinder projekt [BRISQ](https://cordis.europa.eu/project/id/101046968) arendab tehnoloogia varianti.
+Külmad Rydbergi aatomid optilistes võredes on üks põhikvant-süsteemidest, mida kasutatakse kvantarvutuse algfaasis,
+näiteks Prantsuse idufirma [Pasqal](https://pasqal.com/), MIT/Harvardi spin-off [QuEra](https://www.quera.com/)
+(mille tarkvara on [Julias](https://julialang.org/), mitte Pythonis), Berkeley-põhine [Atom
+Computing](https://atom-computing.com/) ja Boulderis, CO asuv [Cold Quanta](https://coldquanta.com/); EL Pathfinder
+projekt [BRISQ](https://cordis.europa.eu/project/id/101046968) arendab tehnoloogia varianti.
 
 ![](./rydberg-CZ.png)
 
-Rydbergi aatomvõrede projektiga alustamiseks korraldame mitteametliku seminari, kus [vabatahtlik 😏](../../homepage/dot.qmd) selgitab, kuidas Rydbergi aatomite kogumeid juhitakse:
+Rydbergi aatomvõrede projektiga alustamiseks korraldame mitteametliku seminari, kus [vabatahtlik
+😏](../../homepage/dot.qmd) selgitab, kuidas Rydbergi aatomite kogumeid juhitakse:
 
 * Delta ruumis 2049, kolmapäeval, 14:30–17:00.
 
-Pärast üldise kvantjuhtimise põhitõdede (interaktsioonipilt, lihtne 1-kubiti juhtimine) ülevaatamist arutame Hamiltoni, mida kasutatakse Rydbergi aatomitega kvantarvutuses, ja töötame selle läbi, et mõista *täieliku matemaatilise rangusega,* kuidas realiseeritakse põimumine CZ värav. Ülitäpseid ja mitte-rigoroosseid pilte, nagu ülalpool olev, kus on näidatud energiatasemed ja footoni energianoolekesed, joonistame ainult lõbu pärast. See sündmus on suunatud matemaatikutele: Te ei pea teadma (ja te ei õpi) midagi poolklassikalise valguse ja aine vastastikmõju kohta.
+Pärast üldise kvantjuhtimise põhitõdede (interaktsioonipilt, lihtne 1-kubiti juhtimine) ülevaatamist arutame
+Hamiltoni, mida kasutatakse Rydbergi aatomitega kvantarvutuses, ja töötame selle läbi, et mõista *täieliku
+matemaatilise rangusega,* kuidas realiseeritakse põimumine CZ värav. Ülitäpseid ja mitte-rigoroosseid pilte, nagu
+ülalpool olev, kus on näidatud energiatasemed ja footoni energianoolekesed, joonistame ainult lõbu pärast. See
+sündmus on suunatud matemaatikutele: Te ei pea teadma (ja te ei õpi) midagi poolklassikalise valguse ja aine
+vastastikmõju kohta.
 
-Kohaletulijad, kellel on piisav matemaatiline taust (Hilberti ruumi operaatoriteooria, kvantmehaanika matemaatika), on teretulnud.
+Kohaletulijad, kellel on piisav matemaatiline taust (Hilberti ruumi operaatoriteooria, kvantmehaanika matemaatika),
+on teretulnud.
