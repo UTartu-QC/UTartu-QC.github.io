@@ -8,7 +8,7 @@ We have for you:
 
 * A list of [ongoing research projects and recent preprints](proandpre.qmd)
 * A [quantum computing blog](kvantblog.qmd) in Estonian
-* A couple of homepages of researchers & students:
+* A few homepages of researchers & students:
   * Homepage of [Dirk Oliver Theis](homepage/dot.qmd) (Assoc. Prof. Theoretical Computer Science, Institute of Computer Science)
   * Homepage of [Shahla Novruzova](homepage/shahla.qmd) (doctoral researcher)
 
@@ -20,7 +20,7 @@ Pakume teile:
 
 * Käsilolevate [uurimisprojektide ja hiljutiste eellugude nimekirja](proandpre.qmd)
 * [Kvantarvutuse blogi](kvantblog.qmd) eesti keeles
-* Mõne teadlase ja tudengi kodulehed:
+* Mõned teadlaste ja tudengite kodulehed, inglise keeles:
   * [Dirk Oliver Theis](homepage/dot.qmd) koduleht (kaasprofessor teoreetiline arvutiteadus, Arvutiteaduse Instituut)
   * [Shahla Novruzova](homepage/shahla.qmd) koduleht (doktorant)
 
