@@ -1,5 +1,5 @@
 ---
-title: "Quantum Seminar: Quantum control of Rydberg atoms"
+title: "Kvanttehnoloogia seminar: Rydbergi aatomite kvantjuhtimine"
 author: "Dirk Oliver Theis"
 date: "2022-09-18"
 ---
