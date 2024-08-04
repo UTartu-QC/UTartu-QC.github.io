@@ -1,73 +1,17 @@
 [
   {
-    "objectID": "kvantblog/2024-08-01/index.html",
-    "href": "kvantblog/2024-08-01/index.html",
-    "title": "Uus Tarkvara Kvantarvutusblogis",
+    "objectID": "kvantblog/2022-09-18/index.html",
+    "href": "kvantblog/2022-09-18/index.html",
+    "title": "Quantum Seminar: Quantum control of Rydberg atoms",
     "section": "",
-    "text": "Tere tulemast Kvantarvutusblogi lugejad!\n\nMeil on hea meel teatada, et meie blogi kasutab nüüd uut tarkvara: Quarto. See on esimene postitus, mis on loodud ja avaldatud uue tarkvara abil. Loodame, et see muudatus toob kaasa parema kasutajakogemuse ja võimaldab meil pakkuda teile veelgi kvaliteetsemat sisu.\nKõik postitused, mille kuupäevad on varasemad kui käesolev postitus, on vanast blogist kopeeritud ja tagasiulatuvalt avaldatud. Need postitused võivad seega sisaldada vanemaid viiteid ja vorminguid, kuid kogu sisu on hoolikalt üle kantud, et säilitada selle algne väärtus ja informatsioon.\nTäname teid mõistva suhtumise eest ja loodame, et naudite meie uut ja parendatud blogi!"
+    "text": "Cold Rydberg atoms in optical lattices are one type of basic quantum systems that are being used for the early stages of quantum computing, e.g., by the French startup Pasqal, the MIT/Harvard spin-off QuEra (whose software is in Julia 👍, not Pyth🤮n), Berkeley-based Atom Computing and Cold Quanta out of Boulder, CO; the EU Pathfinder project BRISQ pursues a technology variant.\n\nAs the staring point for a project with Rydberg atom lattices, we will have an informal seminar where a volunteer 😏 will explain how controlling collections of Rydberg atoms works:\n\nIn Delta room 2049, on Wednesday, 14:30–17:00.\n\nAfter reviewing basics of general quantum control (interaction picture, simple 1-qubit control) we discuss the Hamiltonian used in quantum computing with Rydberg-atoms, and work through it to understand, in full mathematical rigor, how an entangling CZ gate is realized. The highly approximative and non-rigorous pictures such as the one above, with the energy levels and the photon energy arrows, we draw only for fun. This event targets mathematicians: You don't need to know (and you won't learn) anything about semi-classical light-matter interaction.\nWalk-ins with sufficient math background (Hilbert space operator theory, mathematics of quantum mechanics) are welcome."
   },
   {
-    "objectID": "kvantblog/2024-07-07/index.html",
-    "href": "kvantblog/2024-07-07/index.html",
-    "title": "OSQ+: Ehitame kvantarvuti",
+    "objectID": "kvantblog/2024-07-14/index.html",
+    "href": "kvantblog/2024-07-14/index.html",
+    "title": "Kvantarvutuste viga parandava kvantarvutuse elluviimine 2D-s",
     "section": "",
-    "text": "Mõni nädal tagasi toimus ühe meie projekti, OpenSuperQ+ (OSQ+), iga-aastane konsortsiumikoosolek. OSQ+ eesmärk on luua Euroopa Liidus valmistatud kvantarvuti virn, mis põhineb ülijuhtivate kvantseadmete kvantbitidel. Lisaks uurimislaboritele, mis ehitavad tegelikke kvantkiipe, hõlmab OSQ+ ka ettevõtteid, kes tegelevad näiteks kvantseadmete juhtimiseks vajaliku digitaal-analoog elektroonikaga, saates mikrolaineimpulsse kvantkiibile või käitades klassikalise arvuti kaudu madalaima taseme kvant-operatsioonisüsteemi, mis juhib seda elektroonikat. Tartu Ülikool on aktiivne tasemel, mis asub mikrolaineimpulsside kohal: töötame kvantloogikaväravatega süsteemitasandil, mis asub kvantalgoritmide ja -rakenduste kirjutamise kasutajataseme all.\nMinu arvates on selle kvantarvuti virna taseme kõige olulisem aspekt kvantvea parandus ja veataluv kvantarvutamine. Esiteks kasutatakse kvantveaparanduskoode kvantkiibil oleva kvantinfo kaitsmiseks korruptsiooni eest. Teiseks, muidugi, soovite mitte ainult kaitsta kvantinfot, vaid ka sellega arvutada.\nRäägitakse kvantmälust, kui kvantinfo kaitsmine kvantvea eest on fookuses, võrreldes selle töötlemisega. Kvantviga esineb kahes vormis: üks on viga, mis on põhjustatud kvantkiibiga ebatäiuslikust koostoimest. Iga kvantloogikavärava käivitamine võib tekitada vigu. Teine kvantvea vorm tekib ilma tahtliku koostoimeta. Tegelikult on igal mikrosekundil igal füüsilisel kvantbiti teatud tõenäosus olla rikutud. Selle teise vea vormi tõttu peab isegi kvantmälu – st kui soovite lihtsalt kvantinfot mõneks millisekundiks salvestada, kuid te ei kavatse selle aja jooksul sellega arvutusi teha – käitama veaparandustsükleid:\n\nHankige vea sündroom mõõtmiste kaudu;\nLeidke kõige tõenäolisem viga, mis põhjustas sündroomi;\nTühistage viga;\nGoto (1).\n\nVea sündroom koosneb bittidest, laias laastus üks bitt iga füüsilise kvantbiti kohta. Täpsemalt öeldes võrdub füüsiliste kvantbittide arv vea sündroomi bittide arvu pluss kaitstud kvantinfo kvantbittide arv. Kuid iga sündroomibiti ekstraheerimine kvantkiibilt nõuab juba väikeste kvantskeemide käivitamist. (Te ei arvanud ometi, et mõõdame lihtsalt füüsilisi kvantbitte, eks? Sest see purustaks neis sisalduva kvantinfo.) Need väikesed kvantskeemid ise põhjustavad vigu – ja madu püüab oma saba süüa. Räägitakse veataluvast kvantmälust, kui kvantskeemid on üles seatud nii, et kõik töötab välja.\nKvantveaparanduse teemat käsitleti loomulikult ka OSQ+ ürituse sessioonides, kuna teekond veataluva kvantarvutamiseni ei ole veel selge. Tõenduseks sellele on asjaolu, et IBM on oma tehnoloogias teinud strateegilise muudatuse: nad kasutavad kvantmälude jaoks uut niinimetatud kvasi-tsüklilist kvantveaparandus koodi, lisaks hästi väljakujunenud plaanidele kasutada arvutamiseks niinimetatud pinnakoode. See muutus tuleb kuluga, kuna kvantkiipide, mis võimaldavad kvasi-tsükliliste koodide käivitamist, ehitamine on keerulisem.\nKuna teekond veataluvuseni pole veel täielikult välja selgitatud, on palju küsimusi. Üks neist puudutab klassikalist elektroonikat, mida kasutatakse sammudes nr 2 ja nr 3. Samm nr 2 nõuab üsna keeruka klassikalise optimeerimisalgoritmi käivitamist. Mis puudutab sammu nr 3, siis võib olla üllatav, et see hõlmab klassikalist elektroonikat, kuna naiivne mõtlemine eeldaks muutusi füüsiliste kvantbittide olekus. Kuid kuna iga koostoime kvantseadmega on kallis ja potentsiaalselt tekitab uusi vigu, parandame vanad vead lihtsa trikiga: selle asemel, et öelda, pöörata teatud füüsilist kvantbiti, me lihtsalt “mäletame” püsivaras, mis töötab juhtimiselektroonikal, et see füüsiline kvantbit oleks pidanud pöörama, ja siis levitame seda teavet tulevaste koostoimete kaudu selle füüsilise kvantbitiga. Selle levitamisprotsessi käigus võib see pööre levida teistele kvantbittidele, nt. bitflip kvantbiti eel enne CNOT väravat võib samuti põhjustada vajaduse mäletada faasipööret teise kvantbiti jaoks. Vajadus mäletada pöördeid lõpeb ainult mõõtmistega. See tähendab, et igal ajahetkel hoiab ja värskendab püsivara iga füüsilise kvantbiti lippe.\nKummalisel kombel saab äärmuslikul juhul kõiki veaparandusi edasi lükata, kuni kogu kvantprotsess on lõppenud. Jah, lugesite õigesti: selle asemel, et käivitada samme (1-2-3) kord mikrosekundis, käivitate lihtsalt sammu nr 1 kord mikrosekundis ja salvestate kõik tulemuseks olevad veasündroomid. Kui kvantprotsess on lõpetatud, teete esimest korda sammu nr 2, levitate vead, muudate mõõtmistulemusi vajaduse korral, mis viib muudetud sisenditeni teiseks korraks, kui teete sammu nr 2, ja nii edasi. Selle veaparanduse ja -paranduse edasilükkamise eest tuleb muidugi maksta ja see on üsna peen – võib-olla arutame seda mõnes teises blogipostituses.\nMa leian, et praegune kvantarvutite ehitamise ajastu on ülimalt põnev: Milliseid kvantveakorrigeerimise koode kasutada, milliseid väikseid kvantskeeme valida sündroomi mõõtmiseks, milliseid põhitoiminguid teostada kodeeritud kvantinformatsiooniga ja millist teostust valida nende põhitoimingute jaoks kvantveakorrigeerimiskoodis — kõik see on veel avatud ja ootab sinu ideid ja panust. Sa võiksid olla üks pioneere, kes kavandab ja rakendab esimeste kvantarvutite põlvkondade püsivara."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quantum Computing at the University of Tartu",
-    "section": "",
-    "text": "This is the new website of the quantum computing efforts at the University of Tartu, Estonia.\nWe have for you:"
-  },
-  {
-    "objectID": "index.html#tartu-ülikooli-kvantarvutus",
-    "href": "index.html#tartu-ülikooli-kvantarvutus",
-    "title": "Quantum Computing at the University of Tartu",
-    "section": "Tartu Ülikooli Kvantarvutus",
-    "text": "Tartu Ülikooli Kvantarvutus\nSiin on uus koduleht Tartu Ülikooli kvantarvutuse uuringutele.\nPakume teile:\n\nKäsilolevate uurimisprojektide ja hiljutiste eellugude nimekirja\nKvantarvutuse blogi eesti keeles\nMõne teadlase ja tudengi kodulehed:\n\nDirk Oliver Theis koduleht (kaasprofessor teoreetiline arvutiteadus, Arvutiteaduse Instituut)\nShahla Novruzova koduleht (doktorant)\n\n\n\nThis is a Quarto website\nhttps://quarto.org"
-  },
-  {
-    "objectID": "proandpre.html",
-    "href": "proandpre.html",
-    "title": "Projects & Preprints",
-    "section": "",
-    "text": "Explore ways to apply quantum computing to combinatorial optimization problems.\nFunded by Norges Forskningsråd\n09/2022–08/2026\nETIS: MLTAT22410\n\n\n\n\n\nEU endeavor to build a full-stack quantum computer based on superconducting electronic circuits, with the capability, by 2026, to achieve entanglement of 100+ qubits. UTartu will contribute to the enabling-software stack.\nEestikeelne pressiteade TODO: Make link!\n03/2023-08/2026\nETIS: MLTAT23219R\n\n\n\n\n\n… within the Center of Excellence Foundations of the Universe.\n01/2024-12/2030\nETIS: TK202U7\n\n\n\n\n\n01/2020-12/2024\nETIS: PRG946"
-  },
-  {
-    "objectID": "proandpre.html#projects",
-    "href": "proandpre.html#projects",
-    "title": "Projects & Preprints",
-    "section": "",
-    "text": "Explore ways to apply quantum computing to combinatorial optimization problems.\nFunded by Norges Forskningsråd\n09/2022–08/2026\nETIS: MLTAT22410\n\n\n\n\n\nEU endeavor to build a full-stack quantum computer based on superconducting electronic circuits, with the capability, by 2026, to achieve entanglement of 100+ qubits. UTartu will contribute to the enabling-software stack.\nEestikeelne pressiteade TODO: Make link!\n03/2023-08/2026\nETIS: MLTAT23219R\n\n\n\n\n\n… within the Center of Excellence Foundations of the Universe.\n01/2024-12/2030\nETIS: TK202U7\n\n\n\n\n\n01/2020-12/2024\nETIS: PRG946"
-  },
-  {
-    "objectID": "proandpre.html#preprints",
-    "href": "proandpre.html#preprints",
-    "title": "Projects & Preprints",
-    "section": "Preprints",
-    "text": "Preprints\nTODO"
-  },
-  {
-    "objectID": "homepage/dot.html",
-    "href": "homepage/dot.html",
-    "title": "Homepage of Dirk Oliver Theis",
-    "section": "",
-    "text": "Homepage of Dirk Oliver Theis\n(Copy paste stuff)"
-  },
-  {
-    "objectID": "homepage/shahla.html",
-    "href": "homepage/shahla.html",
-    "title": "Homepage of Shahla Novruzova",
-    "section": "",
-    "text": "Homepage of Shahla Novruzova\n(Copy paste stuff)"
-  },
-  {
-    "objectID": "kvantblog.html",
-    "href": "kvantblog.html",
-    "title": "Tartu Ülikooli Kvantarvutusblogi",
-    "section": "",
-    "text": "Uus Tarkvara Kvantarvutusblogis\n\n\n\n\n\n\nDirk Oliver Theis\n\n\nAug 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKvantarvutuste viga parandava kvantarvutuse elluviimine 2D-s\n\n\n\n\n\n\nLet’s Blog!\n\n\nJul 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOSQ+: Ehitame kvantarvuti\n\n\n\n\n\n\nLet’s Blog!\n\n\nJul 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPressiteade: EL kvantarvutite projekti OpenSuperQ pikendatakse: nüüd hõlmab see Tartu Ülikooli\n\n\n\n\n\n\nDirk Oliver Theis\n\n\nMar 2, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Kvantarvutuste viga parandavad koodid on praegu suureks uurimisvaldkonnaks, kuna need võivad olla olulised tõrkekindlate kvantarvutite ehitamisel. Üks kood paistab aga teistest rohkem silma – Surface Code. Seni on kvantarvutuste kogukonnas valitsenud peaaegu üksmeelne arvamus, et esimesed tõrkekindlad kvantarvutid kasutavad just seda koodi. Kuigi see ei pruugi enam olla nii (vaata IBM-i artiklit ja QuEra-i artiklit), on Surface Code endiselt märkimisväärne ja vajab arutelu. Selles lühikeses blogipostituses uurime, kuidas seal CNOT-väravat realiseerida.\nKõigepealt tuleb mainida, et Surface Code’il on mitmeid variante ning CNOT-väravate teostamiseks on erinevaid meetodeid. Siin räägime kõige lõbusamast viisist: võrkkirurgiast.\n\nVõrkkirurgia puhul elab teie kood suurema osa ajast ristkülikukujulisel lapil 2D ruudustikul. Võimalikud on ka keerukamad lapid, näiteks võib kood minna ümber nurkade jne, kui olla piisavalt ettevaatlik. Oluline omadus Surface Code’i puhul on see, et iga koodilapp sisaldab ühte “loogilist” kubitti.\nRistkülikukujulised lapid 2D ruudustikul? Kui see kõlab nagu mõistatusmäng, siis te ei eksi! Tegelikult toimuvad loogilise kubiti või mitme loogilise kubiti (mitmes lapis) operatsioonid järgmiselt:\n\nLappide lõikamine,\nLappide kokkuõmblemine,\nLappide ümberpaigutamine.\n\nOn ka mõned peenemad toimingud, kuid need kolm on piisavad CNOT-värava teostamiseks, mis toimub järgmiselt:\n\nKubitt 1 lõigatakse kaheks pooleks;\nÜks pooltest viiakse kubitile 2 kõrvale;\nKubitt 2 ja see kubitt 1 pool õmmeldakse kokku.\n\nSiin on mõned peamurdmised. Esiteks, kui kubitt 1 lõigatakse, saadakse kaks lappi ehk kaks kubitti, näiteks ülemine kubitt ja alumine kubitt. Kubittide olekuid ei saa kopeerida (No-Cloning Teoreem!), kuid siin seda ei tehta. Kõik, mida me tahame, on: kui kubitt 1 on olekus |0⟩, siis ülemine kubitt on olekus |0⟩ ja alumine kubitt samuti olekus |0⟩. Sama kehtib ka oleku |1⟩ kohta. Seda pole raske mõista.\nTeises etapis on aga peenus: Kui õmblen kokku kaks lappi, millest igaüks sisaldab ühe kubiti, siis lõpptulemusena saan ühe lapi ehk ühe kubiti. Üks kubiti vabadusaste on kadunud. Seega peab sellest protsessist tulema välja klassikaline bitt, mis ei saa olla täiesti juhuslik, vaid peab tegelikult sisaldama mõningast teavet algsete kahe kubiti kohta, sest: 2 = 1 + 1.\nTeisalt ei anna CNOT mulle midagi teada kahe osaleva kubiti kohta! Seega, see teave, mis ma sain, tuleb tagasi panna. See viimane samm tähendab esimese kubiti referentsraami muutmist, mis tuleb teha mingil ajal pärast lõikamist ja õmblemist.\nMuidugi olen jätnud siin välja palju detaile, kuid point on see: Peale kääride ja liimi hõlmab võrkkirurgia enamasti bitide ja kubittide lugemist. Kui kõik kvantarvutuste viga parandavad koodid oleksid sama lõbusad!"
   },
   {
     "objectID": "kvantblog/2023-03-02-osq+/index.html",
@@ -91,10 +35,73 @@
     "text": "Kvanttehnoloogia juhtprojekt\nKvanttehnoloogia juhtprojekt (Quantum Flagship) käivitati 2018. aastal Euroopa Liidu ühe suurima ja ambitsioonikama teadusalgatusena. 1 miljardi euro suuruse eelarve ja 10-aastase kestusega juhtprojekt toob enneolematu ulatusega ühiseks koostööks kokku teadusasutused, akadeemilised ringkonnad, tööstuse, ettevõtted ja poliitikakujundajad. Juhtprojekti peamine eesmärk on tugevdada ja laiendada Euroopa teadusalast juhtpositsiooni ja tipptaset selles uurimisvaldkonnas ning viia kvantfüüsika teadusuuringud laborist turule kaubanduslike rakenduste ja murranguliste tehnoloogiate abil. Kuna sellesse algatusse on kogu kestuse jooksul kaasatud üle 5000 teadlase akadeemilistest ringkondadest ja tööstusest, on selle eesmärk luua järgmine põlvkond murrangulisi tehnoloogiaid, mis mõjutavad Euroopa ühiskonda, tuues piirkonna ülemaailmseks teadmistepõhiseks tööstuseks ja tehnoloogiliseks liidriks antud valdkonnas.\n\nKontakt\nProjekti koordinaator:\nForschungszentrum Jülich GmbH\nProf. Dr. Frank Wilhelm-Mauch\nWWW: www.fz-juelich.de/en\nProjekti juhtimine:\nEURICE GmbH\nAntonija Zrno Culap\nEmail: A.Zrno-Culap@eurice.eu\nWWW: www.eurice.eu\nTartu Ülikooli kontaktid:\nAssoc. Prof. Dirk Oliver Theis, Teoreetilise Informaatika\nWWW: Homepage of Dirk Oliver Theis"
   },
   {
-    "objectID": "kvantblog/2024-07-14/index.html",
-    "href": "kvantblog/2024-07-14/index.html",
-    "title": "Kvantarvutuste viga parandava kvantarvutuse elluviimine 2D-s",
+    "objectID": "kvantblog.html",
+    "href": "kvantblog.html",
+    "title": "Tartu Ülikooli Kvantarvutusblogi",
     "section": "",
-    "text": "Kvantarvutuste viga parandavad koodid on praegu suureks uurimisvaldkonnaks, kuna need võivad olla olulised tõrkekindlate kvantarvutite ehitamisel. Üks kood paistab aga teistest rohkem silma – Surface Code. Seni on kvantarvutuste kogukonnas valitsenud peaaegu üksmeelne arvamus, et esimesed tõrkekindlad kvantarvutid kasutavad just seda koodi. Kuigi see ei pruugi enam olla nii (vaata IBM-i artiklit ja QuEra-i artiklit), on Surface Code endiselt märkimisväärne ja vajab arutelu. Selles lühikeses blogipostituses uurime, kuidas seal CNOT-väravat realiseerida.\nKõigepealt tuleb mainida, et Surface Code’il on mitmeid variante ning CNOT-väravate teostamiseks on erinevaid meetodeid. Siin räägime kõige lõbusamast viisist: võrkkirurgiast.\n\nVõrkkirurgia puhul elab teie kood suurema osa ajast ristkülikukujulisel lapil 2D ruudustikul. Võimalikud on ka keerukamad lapid, näiteks võib kood minna ümber nurkade jne, kui olla piisavalt ettevaatlik. Oluline omadus Surface Code’i puhul on see, et iga koodilapp sisaldab ühte “loogilist” kubitti.\nRistkülikukujulised lapid 2D ruudustikul? Kui see kõlab nagu mõistatusmäng, siis te ei eksi! Tegelikult toimuvad loogilise kubiti või mitme loogilise kubiti (mitmes lapis) operatsioonid järgmiselt:\n\nLappide lõikamine,\nLappide kokkuõmblemine,\nLappide ümberpaigutamine.\n\nOn ka mõned peenemad toimingud, kuid need kolm on piisavad CNOT-värava teostamiseks, mis toimub järgmiselt:\n\nKubitt 1 lõigatakse kaheks pooleks;\nÜks pooltest viiakse kubitile 2 kõrvale;\nKubitt 2 ja see kubitt 1 pool õmmeldakse kokku.\n\nSiin on mõned peamurdmised. Esiteks, kui kubitt 1 lõigatakse, saadakse kaks lappi ehk kaks kubitti, näiteks ülemine kubitt ja alumine kubitt. Kubittide olekuid ei saa kopeerida (No-Cloning Teoreem!), kuid siin seda ei tehta. Kõik, mida me tahame, on: kui kubitt 1 on olekus |0⟩, siis ülemine kubitt on olekus |0⟩ ja alumine kubitt samuti olekus |0⟩. Sama kehtib ka oleku |1⟩ kohta. Seda pole raske mõista.\nTeises etapis on aga peenus: Kui õmblen kokku kaks lappi, millest igaüks sisaldab ühe kubiti, siis lõpptulemusena saan ühe lapi ehk ühe kubiti. Üks kubiti vabadusaste on kadunud. Seega peab sellest protsessist tulema välja klassikaline bitt, mis ei saa olla täiesti juhuslik, vaid peab tegelikult sisaldama mõningast teavet algsete kahe kubiti kohta, sest: 2 = 1 + 1.\nTeisalt ei anna CNOT mulle midagi teada kahe osaleva kubiti kohta! Seega, see teave, mis ma sain, tuleb tagasi panna. See viimane samm tähendab esimese kubiti referentsraami muutmist, mis tuleb teha mingil ajal pärast lõikamist ja õmblemist.\nMuidugi olen jätnud siin välja palju detaile, kuid point on see: Peale kääride ja liimi hõlmab võrkkirurgia enamasti bitide ja kubittide lugemist. Kui kõik kvantarvutuste viga parandavad koodid oleksid sama lõbusad!"
+    "text": "Uus Tarkvara Kvantarvutusblogis\n\n\n\n\n\n\nDirk Oliver Theis\n\n\nAug 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKvantarvutuste viga parandava kvantarvutuse elluviimine 2D-s\n\n\n\n\n\n\nLet’s Blog!\n\n\nJul 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOSQ+: Ehitame kvantarvuti\n\n\n\n\n\n\nLet’s Blog!\n\n\nJul 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPressiteade: EL kvantarvutite projekti OpenSuperQ pikendatakse: nüüd hõlmab see Tartu Ülikooli\n\n\n\n\n\n\nDirk Oliver Theis\n\n\nMar 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nQuantum Seminar: Quantum control of Rydberg atoms\n\n\n\n\n\n\nDirk Oliver Theis\n\n\nSep 18, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "homepage/shahla.html",
+    "href": "homepage/shahla.html",
+    "title": "Homepage of Shahla Novruzova",
+    "section": "",
+    "text": "Homepage of Shahla Novruzova\n(Copy paste stuff)"
+  },
+  {
+    "objectID": "homepage/dot.html",
+    "href": "homepage/dot.html",
+    "title": "Homepage of Dirk Oliver Theis",
+    "section": "",
+    "text": "Homepage of Dirk Oliver Theis\n(Copy paste stuff)"
+  },
+  {
+    "objectID": "proandpre.html",
+    "href": "proandpre.html",
+    "title": "Projects & Preprints",
+    "section": "",
+    "text": "Explore ways to apply quantum computing to combinatorial optimization problems.\nFunded by Norges Forskningsråd\n09/2022–08/2026\nETIS: MLTAT22410\n\n\n\n\n\nEU endeavor to build a full-stack quantum computer based on superconducting electronic circuits, with the capability, by 2026, to achieve entanglement of 100+ qubits. UTartu will contribute to the enabling-software stack.\nEestikeelne pressiteade TODO: Make link!\n03/2023-08/2026\nETIS: MLTAT23219R\n\n\n\n\n\n… within the Center of Excellence Foundations of the Universe.\n01/2024-12/2030\nETIS: TK202U7\n\n\n\n\n\n01/2020-12/2024\nETIS: PRG946"
+  },
+  {
+    "objectID": "proandpre.html#projects",
+    "href": "proandpre.html#projects",
+    "title": "Projects & Preprints",
+    "section": "",
+    "text": "Explore ways to apply quantum computing to combinatorial optimization problems.\nFunded by Norges Forskningsråd\n09/2022–08/2026\nETIS: MLTAT22410\n\n\n\n\n\nEU endeavor to build a full-stack quantum computer based on superconducting electronic circuits, with the capability, by 2026, to achieve entanglement of 100+ qubits. UTartu will contribute to the enabling-software stack.\nEestikeelne pressiteade TODO: Make link!\n03/2023-08/2026\nETIS: MLTAT23219R\n\n\n\n\n\n… within the Center of Excellence Foundations of the Universe.\n01/2024-12/2030\nETIS: TK202U7\n\n\n\n\n\n01/2020-12/2024\nETIS: PRG946"
+  },
+  {
+    "objectID": "proandpre.html#preprints",
+    "href": "proandpre.html#preprints",
+    "title": "Projects & Preprints",
+    "section": "Preprints",
+    "text": "Preprints\nTODO"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantum Computing at the University of Tartu",
+    "section": "",
+    "text": "This is the new website of the quantum computing efforts at the University of Tartu, Estonia.\nWe have for you:"
+  },
+  {
+    "objectID": "index.html#tartu-ülikooli-kvantarvutus",
+    "href": "index.html#tartu-ülikooli-kvantarvutus",
+    "title": "Quantum Computing at the University of Tartu",
+    "section": "Tartu Ülikooli Kvantarvutus",
+    "text": "Tartu Ülikooli Kvantarvutus\nSiin on uus koduleht Tartu Ülikooli kvantarvutuse uuringutele.\nPakume teile:\n\nKäsilolevate uurimisprojektide ja hiljutiste eellugude nimekirja\nKvantarvutuse blogi eesti keeles\nMõne teadlase ja tudengi kodulehed:\n\nDirk Oliver Theis koduleht (kaasprofessor teoreetiline arvutiteadus, Arvutiteaduse Instituut)\nShahla Novruzova koduleht (doktorant)\n\n\n\nThis is a Quarto website\nhttps://quarto.org"
+  },
+  {
+    "objectID": "kvantblog/2024-07-07/index.html",
+    "href": "kvantblog/2024-07-07/index.html",
+    "title": "OSQ+: Ehitame kvantarvuti",
+    "section": "",
+    "text": "Mõni nädal tagasi toimus ühe meie projekti, OpenSuperQ+ (OSQ+), iga-aastane konsortsiumikoosolek. OSQ+ eesmärk on luua Euroopa Liidus valmistatud kvantarvuti virn, mis põhineb ülijuhtivate kvantseadmete kvantbitidel. Lisaks uurimislaboritele, mis ehitavad tegelikke kvantkiipe, hõlmab OSQ+ ka ettevõtteid, kes tegelevad näiteks kvantseadmete juhtimiseks vajaliku digitaal-analoog elektroonikaga, saates mikrolaineimpulsse kvantkiibile või käitades klassikalise arvuti kaudu madalaima taseme kvant-operatsioonisüsteemi, mis juhib seda elektroonikat. Tartu Ülikool on aktiivne tasemel, mis asub mikrolaineimpulsside kohal: töötame kvantloogikaväravatega süsteemitasandil, mis asub kvantalgoritmide ja -rakenduste kirjutamise kasutajataseme all.\nMinu arvates on selle kvantarvuti virna taseme kõige olulisem aspekt kvantvea parandus ja veataluv kvantarvutamine. Esiteks kasutatakse kvantveaparanduskoode kvantkiibil oleva kvantinfo kaitsmiseks korruptsiooni eest. Teiseks, muidugi, soovite mitte ainult kaitsta kvantinfot, vaid ka sellega arvutada.\nRäägitakse kvantmälust, kui kvantinfo kaitsmine kvantvea eest on fookuses, võrreldes selle töötlemisega. Kvantviga esineb kahes vormis: üks on viga, mis on põhjustatud kvantkiibiga ebatäiuslikust koostoimest. Iga kvantloogikavärava käivitamine võib tekitada vigu. Teine kvantvea vorm tekib ilma tahtliku koostoimeta. Tegelikult on igal mikrosekundil igal füüsilisel kvantbiti teatud tõenäosus olla rikutud. Selle teise vea vormi tõttu peab isegi kvantmälu – st kui soovite lihtsalt kvantinfot mõneks millisekundiks salvestada, kuid te ei kavatse selle aja jooksul sellega arvutusi teha – käitama veaparandustsükleid:\n\nHankige vea sündroom mõõtmiste kaudu;\nLeidke kõige tõenäolisem viga, mis põhjustas sündroomi;\nTühistage viga;\nGoto (1).\n\nVea sündroom koosneb bittidest, laias laastus üks bitt iga füüsilise kvantbiti kohta. Täpsemalt öeldes võrdub füüsiliste kvantbittide arv vea sündroomi bittide arvu pluss kaitstud kvantinfo kvantbittide arv. Kuid iga sündroomibiti ekstraheerimine kvantkiibilt nõuab juba väikeste kvantskeemide käivitamist. (Te ei arvanud ometi, et mõõdame lihtsalt füüsilisi kvantbitte, eks? Sest see purustaks neis sisalduva kvantinfo.) Need väikesed kvantskeemid ise põhjustavad vigu – ja madu püüab oma saba süüa. Räägitakse veataluvast kvantmälust, kui kvantskeemid on üles seatud nii, et kõik töötab välja.\nKvantveaparanduse teemat käsitleti loomulikult ka OSQ+ ürituse sessioonides, kuna teekond veataluva kvantarvutamiseni ei ole veel selge. Tõenduseks sellele on asjaolu, et IBM on oma tehnoloogias teinud strateegilise muudatuse: nad kasutavad kvantmälude jaoks uut niinimetatud kvasi-tsüklilist kvantveaparandus koodi, lisaks hästi väljakujunenud plaanidele kasutada arvutamiseks niinimetatud pinnakoode. See muutus tuleb kuluga, kuna kvantkiipide, mis võimaldavad kvasi-tsükliliste koodide käivitamist, ehitamine on keerulisem.\nKuna teekond veataluvuseni pole veel täielikult välja selgitatud, on palju küsimusi. Üks neist puudutab klassikalist elektroonikat, mida kasutatakse sammudes nr 2 ja nr 3. Samm nr 2 nõuab üsna keeruka klassikalise optimeerimisalgoritmi käivitamist. Mis puudutab sammu nr 3, siis võib olla üllatav, et see hõlmab klassikalist elektroonikat, kuna naiivne mõtlemine eeldaks muutusi füüsiliste kvantbittide olekus. Kuid kuna iga koostoime kvantseadmega on kallis ja potentsiaalselt tekitab uusi vigu, parandame vanad vead lihtsa trikiga: selle asemel, et öelda, pöörata teatud füüsilist kvantbiti, me lihtsalt “mäletame” püsivaras, mis töötab juhtimiselektroonikal, et see füüsiline kvantbit oleks pidanud pöörama, ja siis levitame seda teavet tulevaste koostoimete kaudu selle füüsilise kvantbitiga. Selle levitamisprotsessi käigus võib see pööre levida teistele kvantbittidele, nt. bitflip kvantbiti eel enne CNOT väravat võib samuti põhjustada vajaduse mäletada faasipööret teise kvantbiti jaoks. Vajadus mäletada pöördeid lõpeb ainult mõõtmistega. See tähendab, et igal ajahetkel hoiab ja värskendab püsivara iga füüsilise kvantbiti lippe.\nKummalisel kombel saab äärmuslikul juhul kõiki veaparandusi edasi lükata, kuni kogu kvantprotsess on lõppenud. Jah, lugesite õigesti: selle asemel, et käivitada samme (1-2-3) kord mikrosekundis, käivitate lihtsalt sammu nr 1 kord mikrosekundis ja salvestate kõik tulemuseks olevad veasündroomid. Kui kvantprotsess on lõpetatud, teete esimest korda sammu nr 2, levitate vead, muudate mõõtmistulemusi vajaduse korral, mis viib muudetud sisenditeni teiseks korraks, kui teete sammu nr 2, ja nii edasi. Selle veaparanduse ja -paranduse edasilükkamise eest tuleb muidugi maksta ja see on üsna peen – võib-olla arutame seda mõnes teises blogipostituses.\nMa leian, et praegune kvantarvutite ehitamise ajastu on ülimalt põnev: Milliseid kvantveakorrigeerimise koode kasutada, milliseid väikseid kvantskeeme valida sündroomi mõõtmiseks, milliseid põhitoiminguid teostada kodeeritud kvantinformatsiooniga ja millist teostust valida nende põhitoimingute jaoks kvantveakorrigeerimiskoodis — kõik see on veel avatud ja ootab sinu ideid ja panust. Sa võiksid olla üks pioneere, kes kavandab ja rakendab esimeste kvantarvutite põlvkondade püsivara."
+  },
+  {
+    "objectID": "kvantblog/2024-08-01/index.html",
+    "href": "kvantblog/2024-08-01/index.html",
+    "title": "Uus Tarkvara Kvantarvutusblogis",
+    "section": "",
+    "text": "Tere tulemast Kvantarvutusblogi lugejad!\n\nMeil on hea meel teatada, et meie blogi kasutab nüüd uut tarkvara: Quarto. See on esimene postitus, mis on loodud ja avaldatud uue tarkvara abil. Loodame, et see muudatus toob kaasa parema kasutajakogemuse ja võimaldab meil pakkuda teile veelgi kvaliteetsemat sisu.\nKõik postitused, mille kuupäevad on varasemad kui käesolev postitus, on vanast blogist kopeeritud ja tagasiulatuvalt avaldatud. Need postitused võivad seega sisaldada vanemaid viiteid ja vorminguid, kuid kogu sisu on hoolikalt üle kantud, et säilitada selle algne väärtus ja informatsioon.\nTäname teid mõistva suhtumise eest ja loodame, et naudite meie uut ja parendatud blogi!"
   }
 ]
