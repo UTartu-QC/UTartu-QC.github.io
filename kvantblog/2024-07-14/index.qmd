@@ -8,7 +8,7 @@ Kvantarvutuste viga parandavad koodid on praegu suureks uurimisvaldkonnaks, kuna
 
 Kõigepealt tuleb mainida, et Surface Code’il on mitmeid variante ning CNOT-väravate teostamiseks on erinevaid meetodeid. Siin räägime kõige lõbusamast viisist: võrkkirurgiast.
 
-![](dalle-sucks.jpeg)
+![](operation.jpg)
 
 Võrkkirurgia puhul elab teie kood suurema osa ajast ristkülikukujulisel lapil 2D ruudustikul. Võimalikud on ka keerukamad lapid, näiteks võib kood minna ümber nurkade jne, kui olla piisavalt ettevaatlik. Oluline omadus Surface Code’i puhul on see, et iga koodilapp sisaldab ühte “loogilist” kubitti.
 
