@@ -2,7 +2,7 @@
 title: "Quantum Computing at the University of Tartu"
 ---
 
-This is the new website of the quantum computing efforts at the University of Tartu, Estonia.
+This is the *new* website of the quantum computing efforts at the University of Tartu, Estonia.
 
 We have for you:
 
@@ -24,7 +24,7 @@ Pakume teile:
 * Käsilolevate [uurimisprojektide ja hiljutiste eellugude nimekirja](proandpre.qmd) (inglise keeles)
 * Mõned teadlaste ja tudengite kodulehed, inglise keeles:
   - [Dirk Oliver Theis](homepage/dot.qmd) koduleht \
-    [(kaasprofessor teoreetiline arvutiteadus, Arvutiteaduse Instituut)]{.small}
+    [(teoreetilise informaatika kaasprofessor, Arvutiteaduse Instituut)]{.small}
   - [Shahla Novruzova](homepage/shahla.qmd) koduleht \
     [(doktorant)]{.small}
 
