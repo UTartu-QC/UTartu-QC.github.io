@@ -1,7 +1,7 @@
 ---
 title: "Uus Tarkvara Kvantarvutusblogis"
 author: "Dirk Oliver Theis"
-date: "2024-08-31"
+date: "2024-08-01"
 ---
 
 Tere tulemast Kvantarvutusblogi lugejad!
