@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Kvantarvutuste viga parandavad koodid on praegu suureks uurimisvaldkonnaks, kuna need võivad olla olulised tõrkekindlate kvantarvutite ehitamisel. Üks kood paistab aga teistest rohkem silma – Surface Code. Seni on kvantarvutuste kogukonnas valitsenud peaaegu üksmeelne arvamus, et esimesed tõrkekindlad kvantarvutid kasutavad just seda koodi. Kuigi see ei pruugi enam olla nii (vaata <a href="https://www.nature.com/articles/s41586-024-07107-7">IBM-i artiklit</a> ja <a href="https://www.nature.com/articles/s41586-023-06927-3">QuEra-i artiklit</a>), on Surface Code endiselt märkimisväärne ja vajab arutelu. Selles lühikeses blogipostituses uurime, kuidas seal CNOT-väravat realiseerida.</p>
 <p>Kõigepealt tuleb mainida, et Surface Code’il on mitmeid variante ning CNOT-väravate teostamiseks on erinevaid meetodeid. Siin räägime kõige lõbusamast viisist: võrkkirurgiast.</p>
-<p><img src="dalle-sucks.jpeg" class="img-fluid"></p>
+<p><img src="operation.jpg" class="img-fluid"></p>
 <p>Võrkkirurgia puhul elab teie kood suurema osa ajast ristkülikukujulisel lapil 2D ruudustikul. Võimalikud on ka keerukamad lapid, näiteks võib kood minna ümber nurkade jne, kui olla piisavalt ettevaatlik. Oluline omadus Surface Code’i puhul on see, et iga koodilapp sisaldab ühte “loogilist” kubitti.</p>
 <p>Ristkülikukujulised lapid 2D ruudustikul? Kui see kõlab nagu mõistatusmäng, siis te ei eksi! Tegelikult toimuvad loogilise kubiti või mitme loogilise kubiti (mitmes lapis) operatsioonid järgmiselt:</p>
 <ol type="a">
