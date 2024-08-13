@@ -26,7 +26,7 @@ research, I aim to contribute to realizing quantum computing within this decade.
 My recent papers:
 
 - [On SciRate](https://scirate.com/DOT)
-- My [ArXiv tag](http://arxiv.org/a/theis_d_1)
+- My [arXiv tag](http://arxiv.org/a/theis_d_1)
 - My [ORCID stub](https://orcid.org/0000-0002-9362-0748) [will, at some point in the future 🙄, offer a selection
   of my favorite recent papers & preprints.]{.small}
 
@@ -34,7 +34,7 @@ My recent papers:
 ##### Current PhD students
 
 - Evgenii Dolzhkov: Quantum (and quantum inspired) algorithms for optimization
-- [Shahla Novruzova](https://quantum-computing.ut.ee/?page_id=2426): Tbd
+- [Shahla Novruzova](./shahla.qmd): Tbd
 
 ##### Courses
 
