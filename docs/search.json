@@ -4,7 +4,7 @@
     "href": "kvantblog/2024-09-02/index.html",
     "title": "Kvantmasinõpe uudistes",
     "section": "",
-    "text": "Minu isiklik arvamus kvantarvutitel põhineva masinõppe ja tehisintellekti kohta on mõnevõrra segane. Ühelt poolt on tõestatud, et kvantarvutid ületavad eksponentsiaalselt klassikalisi arvuteid, kui tegemist on kvantandmete õppimisega (Huang et al. 2022). Vau! Kuigi, see pole tegelikult üllatav, eks ole? Kuidas saakski kvantandmeid klassikalistele arvutitele kättesaadavaks teha — see pole lihtsalt võimalik. Muidugi, saab salvestada tomograafia andmeid. Bang! Eksponentsiaalne üldkulu! Või saab kasutada klassikalist varju metoodikat, mis piirab kvantandmed, millele teie õpe põhineb, “peaaegu klassikaliste kvantandmetega”, nii-öelda.\nTeiselt poolt tundus mulle varem, et kvantmasinõpe ja kvantne tehisintellekt klassikaliste andmete põhjal on üks tõeliselt ülehinnatud valdkond tänapäeva kvantpüüdlustes: inimesed kirjutavad kvantprogramme ja avaldavad uuringuid ilma vähimagi metodoloogilise ettekujutuseta sellest, kuidas tõestada, et kui pisike kvantarvuti asendada suurega, tooks see kaasa midagi paremat kui see, mida inimesed saavad teha tänapäeva klassikalise masinõppe/tehisintellekti tehnoloogiaga. Aga tundub, et ma eksisin.\nJames Manyika, Google’i teaduse, tehnoloogia ja ühiskonna vanem asepresident, andis intervjuu Financial Timesile, mis avaldati täna. Nüüd, Manyika on Google’i mees, kelle ülesandeks oleks lõputult rääkida LLMide, tugevdusõppe jne lubadustest. Kuid ta otsustas teemat muuta: kvantarvutite suunas.\nTa näib vihjavat, et Google suudab näidata nn “QUAQUA ADVADV” masinõppes / tehisintellektis. Kuid andkem oma sisemisele skeptikule kahtluse kasuks ja eeldagem, et Manyika viimane lause oli puhtalt selgitav: Artikkel räägib Geminist ja teistest tööriistadest ning Manyika räägib selle tehnoloogia täiustamisest kvantarvutite abil — sel aastal. See oleks märkimisväärne!"
+    "text": "Minu isiklik arvamus kvantarvutitel põhineva masinõppe ja tehisintellekti kohta on mõnevõrra segane. Ühelt poolt on tõestatud, et kvantarvutid ületavad eksponentsiaalselt klassikalisi arvuteid, kui tegemist on kvantandmete õppimisega (Huang et al. 2022). Vau! Kuigi, see pole tegelikult üllatav, eks ole? Kuidas saakski kvantandmeid klassikalistele arvutitele kättesaadavaks teha — see pole lihtsalt võimalik. Muidugi, saab salvestada tomograafia andmeid. Bang! Eksponentsiaalne üldkulu! Või saab kasutada klassikalist varju metoodikat, mis piirab kvantandmed, millele teie õpe põhineb, “peaaegu klassikaliste kvantandmetega”, nii-öelda.\nTeiselt poolt tundus mulle varem, et kvantmasinõpe ja kvantne tehisintellekt klassikaliste andmete põhjal on üks tõeliselt ülehinnatud valdkond tänapäeva kvantpüüdlustes: inimesed kirjutavad kvantprogramme ja avaldavad uuringuid ilma vähimagi metodoloogilise ettekujutuseta sellest, kuidas tõestada, et kui pisike kvantarvuti asendada suurega, tooks see kaasa midagi paremat kui see, mida inimesed saavad teha tänapäeva klassikalise masinõppe/tehisintellekti tehnoloogiaga. Aga tundub, et ma eksisin.\nJames Manyika, Google’i teaduse, tehnoloogia ja ühiskonna vanem asepresident, andis intervjuu Financial Timesile, mis avaldati täna. Nüüd, Manyika on Google’i mees, kelle ülesandeks oleks lõputult rääkida LLMide, tugevdusõppe jne lubadustest. Kuid ta otsustas teemat muuta: kvantarvutite suunas.\nTa näib vihjavat, et Google suudab näidata nn “Quantum Advantage” masinõppes / tehisintellektis. Kuid andkem oma sisemisele skeptikule kahtluse kasuks ja eeldagem, et Manyika viimane lause oli puhtalt selgitav: Artikkel räägib Geminist ja teistest tööriistadest ning Manyika räägib selle tehnoloogia täiustamisest kvantarvutite abil — sel aastal. See oleks märkimisväärne!"
   },
   {
     "objectID": "kvantblog/2024-09-02/index.html#footnotes",
@@ -95,7 +95,21 @@
     "href": "homepage/shahla.html",
     "title": "Homepage of Shahla Novruzova",
     "section": "",
-    "text": "Homepage of Shahla Novruzova\n(Copy paste stuff)"
+    "text": "Shahla Novruzova\nDoctoral Researcher\n\nBachelor’s Degree in Physics Education, Baku Engineering University (2012-2017)\nMaster’s Degree in Theoretical and High Energy Physics, Physics Institute of Azerbaijan National Academy of Sciences\nQuantum Software Developer at Uni Tartu, Estonia, EU, Earth (since 3/2013)\n\n\n\nQuantum computing\n\nI began my research career by analyzing models of confined quantum wells, where I developed a foundation in quantum mechanics and computational techniques. I’ve shifted my focus to quantum computing with dedication of quantum error correction and simulating quantum circuits. I’m commited to contribute to my team’s efforts in advancing quantum software and developing reliable, efficient quantum systems\nPapers:\nORCID 0009-0002-0744-8484\n\n\n\n➜ LinkedIn\n➜ shahla.novruzovaat ut dot ee"
+  },
+  {
+    "objectID": "homepage/shahla.html#research",
+    "href": "homepage/shahla.html#research",
+    "title": "Homepage of Shahla Novruzova",
+    "section": "",
+    "text": "Quantum computing\n\nI began my research career by analyzing models of confined quantum wells, where I developed a foundation in quantum mechanics and computational techniques. I’ve shifted my focus to quantum computing with dedication of quantum error correction and simulating quantum circuits. I’m commited to contribute to my team’s efforts in advancing quantum software and developing reliable, efficient quantum systems\nPapers:\nORCID 0009-0002-0744-8484"
+  },
+  {
+    "objectID": "homepage/shahla.html#contact",
+    "href": "homepage/shahla.html#contact",
+    "title": "Homepage of Shahla Novruzova",
+    "section": "",
+    "text": "➜ LinkedIn\n➜ shahla.novruzovaat ut dot ee"
   },
   {
     "objectID": "kvantblog.html",
