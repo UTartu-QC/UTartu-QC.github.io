@@ -8,7 +8,7 @@ Minu isiklik arvamus kvantarvutitel põhineva masinõppe ja tehisintellekti koht
 
 Teiselt poolt tundus mulle varem, et kvantmasinõpe ja kvantne tehisintellekt *klassikaliste* andmete põhjal on üks tõeliselt ülehinnatud valdkond tänapäeva kvantpüüdlustes: inimesed kirjutavad kvantprogramme ja avaldavad uuringuid ilma vähimagi metodoloogilise ettekujutuseta sellest, kuidas tõestada, et kui pisike kvantarvuti asendada suurega, tooks see kaasa midagi paremat kui see, mida inimesed saavad teha tänapäeva klassikalise masinõppe/tehisintellekti tehnoloogiaga.  Aga tundub, et ma eksisin.
 
-![James Manyika Tallinna digitaaltippkohtumisel 2017](Tallinn_Digital_Summit_Fireside_chat_with_James_Manyika.jpg)
+![James Manyika Tallinna digitaaltippkohtumisel 2017 (Wikipedia)](Tallinn_Digital_Summit_Fireside_chat_with_James_Manyika.jpg)
 
 James Manyika, Google'i teaduse, tehnoloogia ja ühiskonna vanem asepresident, andis intervjuu Financial Timesile, mis avaldati täna.  Nüüd, Manyika on Google'i mees, kelle ülesandeks oleks lõputult rääkida LLMide, tugevdusõppe jne lubadustest.  Kuid ta otsustas teemat muuta: kvantarvutite suunas.
 
