@@ -4,10 +4,10 @@ Shahla Novruzova\
 Doctoral Researcher
 
 - Bachelor's Degree in Physics Education, [Baku Engineering University](https://beu.edu.az/en) (2012-2017)
-- Master's Degree in Theoretical and High Energy Physics, [Physics Institute]((http://www.physics.gov.az/index_en.html)) of [Azerbaijan National Academy of Sciences](https://en.wikipedia.org/wiki/Azerbaijan_National_Academy_of_Sciences)
+- Master's Degree in Theoretical and High Energy Physics, [Physics Institute]((http://www.physics.gov.az/index_en.html)) of [Azerbaijan National Academy of Sciences](https://en.wikipedia.org/wiki/Azerbaijan_National_Academy_of_Sciences) (2018-2020)
 - Quantum Software Developer at
   [Uni Tartu](https://en.wikipedia.org/wiki/University_of_Tartu)[,
-  [Estonia](https://en.wikipedia.org/wiki/Estonia)[, EU, Earth]{.small}]{.small} (since 3/2013)
+  [Estonia](https://en.wikipedia.org/wiki/Estonia)[, EU,]{.small}]{.small} (since 9/2023)
 
 ## Research
 
@@ -23,4 +23,4 @@ ORCID [0009-0002-0744-8484](https://orcid.org/0009-0002-0744-8484)
 ## Contact
 
 ➜ [LinkedIn](https://www.linkedin.com/in/shahla-novruzova-513385190/)\
-➜ `shahla.novruzova`[*at* `ut` *dot* `ee`]{.small}\
+➜ [`shahla` *dot* `novruzova`*at* `ut` *dot* `ee`]{.small}\
