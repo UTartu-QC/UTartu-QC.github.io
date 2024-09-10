@@ -32,6 +32,62 @@ title: "Projects & Preprints"
   - 01/2020-12/2024
   - [ETIS: PRG946](https://www.etis.ee/Portal/Projects/Display/fb7844a5-64de-440f-a28b-47db864530cb)
 
+
+
+
 ## Preprints
 
-**TODO**
+Output of Quantum Computing research at the University of Tartu.  This is updated very infrequently, sorry ☹️
+
+* [arXiv:2207.01587](http://arxiv.org/abs/2207.01587) \
+  *"Proper" shift rules for derivatives of perturbed-parametric quantum evolutions*
+
+    - Dirk Oliver Theis
+    - [➜ Source code: [Notebook with numerical simulations comparing to literature method](https://dojt.github.io/storage/nyquist/)]{.small}
+    - [➜ [Patent application US 17/856,357](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024003394)]{.small}
+
+* [arXiv:2112.14669](https://arxiv.org/abs/2112.14669) \
+  *Optimality of finite-support parameter shift rules for derivatives of variational quantum circuits*
+
+    - Dirk Oliver Theis
+    - [➜ Source code: [Proof-of-concept implementations](https://github.com/dojt/ShiftRulesPluto)]{.small}
+
+* [arXiv:2103.13319](https://arxiv.org/abs/2103.13319) \
+  *Fast qubits of optical frequencies on the rare-earth ions in fluoride crystals and color centers in diamond*
+
+    - Vladimir Hizhnyakov, Vadim Boltrushko, Aleksander Shelkan, Yurii Orlovskii
+
+
+* [arXiv:2101.07792](https://arxiv.org/abs/2101.07792) [[(Optics Communications)](https://doi.org/10.1016/j.optcom.2020.126693)]{.small}\
+  *Rare earth ions doped mixed crystals for fast quantum computers with optical frequency qubits*
+
+    - Vladimir Hizhnyakov, Vadim Boltrushko, Helle Kaasik, Yurii Orlovskii
+
+
+* [arXiv:1903.12611](https://arxiv.org/abs/1903.12611)\
+  *Information content of queries in training parameterized quantum circuits*
+
+    - Bahman Ghandchi, Dirk Oliver Theis
+
+
+* [arXiv:1901.11434](https://arxiv.org/abs/1901.11434) [[(Frontiers in Physics)](https://doi.org/10.3389/fphy.2020.00297)]{.small}\
+  *Input redundancy for parameterized quantum circuits*
+
+    - Javier Gil Vidal, Dirk Oliver Theis
+
+* [arXiv:1812.06323](https://arxiv.org/abs/1812.06323)\
+  *Calculus on parameterized quantum circuits*
+
+    - Javier Gil Vidal, Dirk Oliver Theis
+
+* [arXiv:1810.10759](https://arxiv.org/abs/1810.10759)\
+  *Note on (active-)QRAM-style data access as a quantum circuit*
+
+    - Tore Vincent Carstens, Dirk Oliver Theis
+
+#### Publications without preprint
+
+* [Journal of Luminescence (2019)](https://doi.org/10.1016/j.jlumin.2019.116920)\
+  *Spectroscopic evidence of cooperative (entangled) quantum states of Nd3+ ion pairs in Nd3+: LaF3 crystal*
+
+    - Yurii Orlovskii, Helge Gross, Elena Vinogradova, Vadim Boltrushko, Vladimir Hizhnyakov
