@@ -37,13 +37,24 @@ My recent papers:
 - Evgenii Dolzhkov: Quantum (and quantum inspired) algorithms for optimization
 - [Shahla Novruzova](./shahla.qmd): Tbd
 
+##### Past students...
+
+... in quantum computing:
+
+- [Anabel Ovide González](https://www.linkedin.com/in/anabel-ovide-gonz%C3%A1lez-3723021a7/) *Multicore quantum computers: Mapping analysis of quantum algorithms* (MSc 2022)
+- [Handy Kurniawan](https://www.linkedin.com/in/handy-kurniawan/) *A quantum language compiler* (MSc 2022)
+- [Alejandro Villoria Gonzalez](https://www.linkedin.com/in/alejandro-villoria-gonz%C3%A1lez-3161611a1/) *Verification of AutoCCZ quantum states by ZX calculation* (MSc 2022)
+- Evgenii Dolzhkov, *Using abstract harmonic analysis and Lie group theory to study parameterized quantum circuits* (MSc 2020)
+- Andrew Lei, *Quantum computing methods for machine learning* (MSc 2020)
+- [Mykhailo Nitsenko](https://forte.delfi.ee/artikkel/90113537/ma-lihtsalt-ei-kujutanud-ette-tartu-ulikoolis-kaitsti-esimene-kvantarvutuse-teemaline-magistritoo) (MSc 2020)
+
 ##### Courses
 
 Teaching in Fall 2024:
 
 - `LTAT.04.004` **Quantum Seminar** (3 ECTS)
 
-Courses I have taught in the past include:
+Quantum computing courses I have taught in the past include:
 
 - `MTAT.07.024` *Quantum Cryptography* [(6 ECTS)]{.small}
 - `MTAT.05.118` *Quantum Algorithms* [(6 ECTS; basic quantum algorithms)]{.small}
