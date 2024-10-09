@@ -16,9 +16,9 @@ title: "Projects & Preprints"
   - EU endeavor to build a full-stack quantum computer based on superconducting electronic circuits, with the
     capability, by 2026, to achieve entanglement of 100+ qubits.  UTartu will contribute to the enabling-software
     stack.
-  - Eestikeelne pressiteade **TODO: Make link!**
   - 03/2023-08/2026
   - [ETIS: MLTAT23219R](https://www.etis.ee/Portal/Projects/Display/521659e7-fbe6-43b4-97b6-ef8111700c8e)
+  - Press announcement in Estonian: [Eestikeelne pressiteade](./kvantblog/2023-03-02-osq+/index.qmd)
 
 #### Work group № 7 "Quantum Information and Computing"...
 
