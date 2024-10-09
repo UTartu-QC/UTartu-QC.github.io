@@ -7,8 +7,7 @@ title: "Projects & Preprints"
 #### [NeQst](https://www.sintef.no/en/projects/2022/neqst-quantum-computing-applied-to-industrial-optimization-problems)
 
   - Explore ways to apply quantum computing to combinatorial optimization problems.
-  - Funded by [Norges
-    Forskningsråd](https://www.forskningsradet.no/en/call-for-proposals/2021/collaborative-project-technological-convergence/)
+  - Funded by Norges Forskningsråd
   - 09/2022–08/2026
   - [ETIS: MLTAT22410](https://www.etis.ee/Portal/Projects/Display/00a35da9-08ad-46ec-ba26-800d62f16a28)
 
