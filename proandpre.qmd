@@ -38,7 +38,7 @@ title: "Projects & Preprints"
 
 Output of Quantum Computing research at the University of Tartu.  This is updated very infrequently, sorry ☹️
 
-* [arXiv:2207.01587](http://arxiv.org/abs/2207.01587) \
+* [arXiv:2207.01587](http://arxiv.org/abs/2207.01587) [[(Quantum)](https://quantum-journal.org/papers/q-2023-07-11-1052/)]{.small}\
   *"Proper" shift rules for derivatives of perturbed-parametric quantum evolutions*
 
     - Dirk Oliver Theis
