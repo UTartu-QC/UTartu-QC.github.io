@@ -1,4 +1,6 @@
-# Homepage of Dirk Oliver Theis
+---
+title: "Homepage of Dirk Oliver Theis"
+---
 
 [Dr. rer. nat. habil.]{.small}\
 Dirk Oliver Theis\
@@ -56,8 +58,8 @@ Teaching in Fall 2024:
 
 Quantum computing courses I have taught in the past include:
 
-- `MTAT.07.024` *Quantum Cryptography* [(6 ECTS)]{.small}
 - `MTAT.05.118` *Quantum Algorithms* [(6 ECTS; basic quantum algorithms)]{.small}
+- `MTAT.07.024` *Quantum Cryptography* [(6 ECTS)]{.small}
 - `LTAT.00.015a` *Modern Quantum Algorithms* [(6 ECTS; LCU, QSVT, etc.)]{.small}
 - `LTAT.00.015b` *Quantum Error Correction & Fault Tolerant Quantum Computing* [(6 ECTS; stabilizer codes, surface
   codes, fault tolerant QC)]{.small}
