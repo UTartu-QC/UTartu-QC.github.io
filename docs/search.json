@@ -63,6 +63,34 @@
     "text": "Preprints\nOutput of Quantum Computing research at the University of Tartu. This is updated very infrequently, sorry ☹️\n\narXiv:2207.01587 (Quantum)\n“Proper” shift rules for derivatives of perturbed-parametric quantum evolutions\n\nDirk Oliver Theis\n➜ Source code: Notebook with numerical simulations comparing to literature method\n➜ Patent application US 17/856,357\n\narXiv:2112.14669\nOptimality of finite-support parameter shift rules for derivatives of variational quantum circuits\n\nDirk Oliver Theis\n➜ Source code: Proof-of-concept implementations\n\narXiv:2103.13319\nFast qubits of optical frequencies on the rare-earth ions in fluoride crystals and color centers in diamond\n\nVladimir Hizhnyakov, Vadim Boltrushko, Aleksander Shelkan, Yurii Orlovskii\n\narXiv:2101.07792 (Optics Communications)\nRare earth ions doped mixed crystals for fast quantum computers with optical frequency qubits\n\nVladimir Hizhnyakov, Vadim Boltrushko, Helle Kaasik, Yurii Orlovskii\n\narXiv:1903.12611\nInformation content of queries in training parameterized quantum circuits\n\nBahman Ghandchi, Dirk Oliver Theis\n\narXiv:1901.11434 (Frontiers in Physics)\nInput redundancy for parameterized quantum circuits\n\nJavier Gil Vidal, Dirk Oliver Theis\n\narXiv:1812.06323\nCalculus on parameterized quantum circuits\n\nJavier Gil Vidal, Dirk Oliver Theis\n\narXiv:1810.10759\nNote on (active-)QRAM-style data access as a quantum circuit\n\nTore Vincent Carstens, Dirk Oliver Theis\n\n\n\nPublications without preprint\n\nJournal of Luminescence (2019)\nSpectroscopic evidence of cooperative (entangled) quantum states of Nd3+ ion pairs in Nd3+: LaF3 crystal\n\nYurii Orlovskii, Helge Gross, Elena Vinogradova, Vadim Boltrushko, Vladimir Hizhnyakov"
   },
   {
+    "objectID": "homepage/dot.html",
+    "href": "homepage/dot.html",
+    "title": "Homepage of Dirk Oliver Theis",
+    "section": "",
+    "text": "Dr. rer. nat. habil.\nDirk Oliver Theis\nAssociate Professor"
+  },
+  {
+    "objectID": "homepage/dot.html#research",
+    "href": "homepage/dot.html#research",
+    "title": "Homepage of Dirk Oliver Theis",
+    "section": "Research",
+    "text": "Research\nWho I am: Theoretical computer science, applicable mathematics.\nWhat I do: Quantum computing.\nTheoretical computer science and mathematics are about proving theorems, which is what I (try to) do most of the time. To assess the practical utility of results that I obtain on paper, I also often write proof-of-concept source code. Apart from pure theory, I'm fond of compiler engineering: the closer to the metal the better. With my research, I aim to contribute to realizing quantum computing within this decade.\nMy recent papers:\n\nOn SciRate\nMy arXiv tag\nMy ORCID stub will, at some point in the future 🙄, offer a selection of my favorite recent papers & preprints\n."
+  },
+  {
+    "objectID": "homepage/dot.html#teaching",
+    "href": "homepage/dot.html#teaching",
+    "title": "Homepage of Dirk Oliver Theis",
+    "section": "Teaching",
+    "text": "Teaching\n\nCurrent students\n\nEvgenii Dolzhkov: PhD candidate — Quantum (and quantum inspired) algorithms for optimization\nShahla Novruzova: PhD candidate — Quantum error correction, details tbd\nAnton Perepelenko: BSc candidate — Testing quantum computers\n\n\n\nPast students…\n… in quantum computing:\n\nAnabel Ovide González Multicore quantum computers: Mapping analysis of quantum algorithms (MSc 2022)\nHandy Kurniawan A quantum language compiler (MSc 2022)\nAlejandro Villoria Gonzalez Verification of AutoCCZ quantum states by ZX calculation (MSc 2022)\nEvgenii Dolzhkov, Using abstract harmonic analysis and Lie group theory to study parameterized quantum circuits (MSc 2020)\nAndrew Lei, Quantum computing methods for machine learning (MSc 2020)\nMykhailo Nitsenko (MSc 2020)\n\n\n\nCourses\nTeaching in Fall 2024:\n\nLTAT.04.004 Quantum Seminar (3 ECTS)\n\nQuantum computing courses I have taught in the past include:\n\nMTAT.05.118 Quantum Algorithms (6 ECTS; basic quantum algorithms)\nMTAT.07.024 Quantum Cryptography (6 ECTS)\nLTAT.00.015a Modern Quantum Algorithms (6 ECTS; LCU, QSVT, etc.)\nLTAT.00.015b Quantum Error Correction & Fault Tolerant Quantum Computing (6 ECTS; stabilizer codes, surface codes, fault tolerant QC)\nLTAT.00.015c Quantum Information Processing with Photons (6 ECTS; measurement-based quantum computing on photonic QC devices)"
+  },
+  {
+    "objectID": "homepage/dot.html#contact",
+    "href": "homepage/dot.html#contact",
+    "title": "Homepage of Dirk Oliver Theis",
+    "section": "Contact",
+    "text": "Contact\n➜ LinkedIn\n➜ dotheis dot UTartu at ƍ📧 dot com\n      (I lose some of the mails sent to my @ut.ee-address.)"
+  },
+  {
     "objectID": "homepage/shahla.html",
     "href": "homepage/shahla.html",
     "title": "Homepage of Shahla Novruzova",
@@ -82,34 +110,6 @@
     "title": "Homepage of Shahla Novruzova",
     "section": "",
     "text": "➜ LinkedIn\n➜ shahla dot novruzovaat ut dot ee"
-  },
-  {
-    "objectID": "homepage/dot.html",
-    "href": "homepage/dot.html",
-    "title": "Homepage of Dirk Oliver Theis",
-    "section": "",
-    "text": "Dr. rer. nat. habil.\nDirk Oliver Theis\nAssociate Professor"
-  },
-  {
-    "objectID": "homepage/dot.html#research",
-    "href": "homepage/dot.html#research",
-    "title": "Homepage of Dirk Oliver Theis",
-    "section": "Research",
-    "text": "Research\nWho I am: Theoretical computer science, applicable mathematics.\nWhat I do: Quantum computing.\nTheoretical computer science and mathematics are about proving theorems, which is what I (try to) do most of the time. To assess the practical utility of results that I obtain on paper, I also often write proof-of-concept source code. Apart from pure theory, I'm fond of compiler engineering: the closer to the metal the better. With my research, I aim to contribute to realizing quantum computing within this decade.\nMy recent papers:\n\nOn SciRate\nMy arXiv tag\nMy ORCID stub will, at some point in the future 🙄, offer a selection of my favorite recent papers & preprints\n."
-  },
-  {
-    "objectID": "homepage/dot.html#teaching",
-    "href": "homepage/dot.html#teaching",
-    "title": "Homepage of Dirk Oliver Theis",
-    "section": "Teaching",
-    "text": "Teaching\n\nCurrent PhD students\n\nEvgenii Dolzhkov: Quantum (and quantum inspired) algorithms for optimization\nShahla Novruzova: Tbd\n\n\n\nPast students…\n… in quantum computing:\n\nAnabel Ovide González Multicore quantum computers: Mapping analysis of quantum algorithms (MSc 2022)\nHandy Kurniawan A quantum language compiler (MSc 2022)\nAlejandro Villoria Gonzalez Verification of AutoCCZ quantum states by ZX calculation (MSc 2022)\nEvgenii Dolzhkov, Using abstract harmonic analysis and Lie group theory to study parameterized quantum circuits (MSc 2020)\nAndrew Lei, Quantum computing methods for machine learning (MSc 2020)\nMykhailo Nitsenko (MSc 2020)\n\n\n\nCourses\nTeaching in Fall 2024:\n\nLTAT.04.004 Quantum Seminar (3 ECTS)\n\nQuantum computing courses I have taught in the past include:\n\nMTAT.05.118 Quantum Algorithms (6 ECTS; basic quantum algorithms)\nMTAT.07.024 Quantum Cryptography (6 ECTS)\nLTAT.00.015a Modern Quantum Algorithms (6 ECTS; LCU, QSVT, etc.)\nLTAT.00.015b Quantum Error Correction & Fault Tolerant Quantum Computing (6 ECTS; stabilizer codes, surface codes, fault tolerant QC)\nLTAT.00.015c Quantum Information Processing with Photons (6 ECTS; measurement-based quantum computing on photonic QC devices)"
-  },
-  {
-    "objectID": "homepage/dot.html#contact",
-    "href": "homepage/dot.html#contact",
-    "title": "Homepage of Dirk Oliver Theis",
-    "section": "Contact",
-    "text": "Contact\n➜ LinkedIn\n➜ dotheis dot UTartu at ƍ📧 dot com\n      (I lose some of the mails sent to my @ut.ee-address.)"
   },
   {
     "objectID": "kvantblog.html",

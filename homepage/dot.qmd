@@ -34,10 +34,11 @@ My recent papers:
 - [.](https://patents.google.com/?inventor=Dirk+Oliver+THEIS)
 
 ## Teaching
-##### Current PhD students
+##### Current students
 
-- Evgenii Dolzhkov: Quantum (and quantum inspired) algorithms for optimization
-- [Shahla Novruzova](./shahla.qmd): Tbd
+- Evgenii Dolzhkov: PhD candidate — Quantum (and quantum inspired) algorithms for optimization
+- [Shahla Novruzova](./shahla.qmd): PhD candidate — Quantum error correction, details tbd
+- Anton Perepelenko: BSc candidate — Testing quantum computers
 
 ##### Past students...
 
