@@ -63,6 +63,27 @@
     "text": "Preprints\nOutput of Quantum Computing research at the University of Tartu. This is updated very infrequently, sorry ☹️\n\narXiv:2207.01587 (Quantum)\n“Proper” shift rules for derivatives of perturbed-parametric quantum evolutions\n\nDirk Oliver Theis\n➜ Source code: Notebook with numerical simulations comparing to literature method\n➜ Patent application US 17/856,357\n\narXiv:2112.14669\nOptimality of finite-support parameter shift rules for derivatives of variational quantum circuits\n\nDirk Oliver Theis\n➜ Source code: Proof-of-concept implementations\n\narXiv:2103.13319\nFast qubits of optical frequencies on the rare-earth ions in fluoride crystals and color centers in diamond\n\nVladimir Hizhnyakov, Vadim Boltrushko, Aleksander Shelkan, Yurii Orlovskii\n\narXiv:2101.07792 (Optics Communications)\nRare earth ions doped mixed crystals for fast quantum computers with optical frequency qubits\n\nVladimir Hizhnyakov, Vadim Boltrushko, Helle Kaasik, Yurii Orlovskii\n\narXiv:1903.12611\nInformation content of queries in training parameterized quantum circuits\n\nBahman Ghandchi, Dirk Oliver Theis\n\narXiv:1901.11434 (Frontiers in Physics)\nInput redundancy for parameterized quantum circuits\n\nJavier Gil Vidal, Dirk Oliver Theis\n\narXiv:1812.06323\nCalculus on parameterized quantum circuits\n\nJavier Gil Vidal, Dirk Oliver Theis\n\narXiv:1810.10759\nNote on (active-)QRAM-style data access as a quantum circuit\n\nTore Vincent Carstens, Dirk Oliver Theis\n\n\n\nPublications without preprint\n\nJournal of Luminescence (2019)\nSpectroscopic evidence of cooperative (entangled) quantum states of Nd3+ ion pairs in Nd3+: LaF3 crystal\n\nYurii Orlovskii, Helge Gross, Elena Vinogradova, Vadim Boltrushko, Vladimir Hizhnyakov"
   },
   {
+    "objectID": "homepage/shahla.html",
+    "href": "homepage/shahla.html",
+    "title": "Homepage of Shahla Novruzova",
+    "section": "",
+    "text": "Shahla Novruzova\nDoctoral Researcher\n\nBachelor’s Degree in Physics Education, Baku Engineering University (2012-2017)\nMaster’s Degree in Theoretical and High Energy Physics, Physics Institute of Azerbaijan National Academy of Sciences (2018-2020)\nQuantum Software Developer at Uni Tartu, Estonia, EU, (since 9/2023)\n\n\n\nQuantum computing\n\nI began my research career by analyzing models of confined quantum wells, where I developed a foundation in quantum mechanics and computational techniques. I’ve shifted my focus to quantum computing with dedication of quantum error correction and simulating quantum circuits. I’m commited to contribute to my team’s efforts in advancing quantum software and developing reliable, efficient quantum systems\nPapers:\nORCID 0009-0002-0744-8484\n\n\n\n➜ LinkedIn\n➜ shahla dot novruzovaat ut dot ee"
+  },
+  {
+    "objectID": "homepage/shahla.html#research",
+    "href": "homepage/shahla.html#research",
+    "title": "Homepage of Shahla Novruzova",
+    "section": "",
+    "text": "Quantum computing\n\nI began my research career by analyzing models of confined quantum wells, where I developed a foundation in quantum mechanics and computational techniques. I’ve shifted my focus to quantum computing with dedication of quantum error correction and simulating quantum circuits. I’m commited to contribute to my team’s efforts in advancing quantum software and developing reliable, efficient quantum systems\nPapers:\nORCID 0009-0002-0744-8484"
+  },
+  {
+    "objectID": "homepage/shahla.html#contact",
+    "href": "homepage/shahla.html#contact",
+    "title": "Homepage of Shahla Novruzova",
+    "section": "",
+    "text": "➜ LinkedIn\n➜ shahla dot novruzovaat ut dot ee"
+  },
+  {
     "objectID": "homepage/dot.html",
     "href": "homepage/dot.html",
     "title": "Homepage of Dirk Oliver Theis",
@@ -89,27 +110,6 @@
     "title": "Homepage of Dirk Oliver Theis",
     "section": "Contact",
     "text": "Contact\n➜ LinkedIn\n➜ dotheis dot UTartu at ƍ📧 dot com\n      (I lose some of the mails sent to my @ut.ee-address.)"
-  },
-  {
-    "objectID": "homepage/shahla.html",
-    "href": "homepage/shahla.html",
-    "title": "Homepage of Shahla Novruzova",
-    "section": "",
-    "text": "Shahla Novruzova\nDoctoral Researcher\n\nBachelor’s Degree in Physics Education, Baku Engineering University (2012-2017)\nMaster’s Degree in Theoretical and High Energy Physics, Physics Institute of Azerbaijan National Academy of Sciences (2018-2020)\nQuantum Software Developer at Uni Tartu, Estonia, EU, (since 9/2023)\n\n\n\nQuantum computing\n\nI began my research career by analyzing models of confined quantum wells, where I developed a foundation in quantum mechanics and computational techniques. I’ve shifted my focus to quantum computing with dedication of quantum error correction and simulating quantum circuits. I’m commited to contribute to my team’s efforts in advancing quantum software and developing reliable, efficient quantum systems\nPapers:\nORCID 0009-0002-0744-8484\n\n\n\n➜ LinkedIn\n➜ shahla dot novruzovaat ut dot ee"
-  },
-  {
-    "objectID": "homepage/shahla.html#research",
-    "href": "homepage/shahla.html#research",
-    "title": "Homepage of Shahla Novruzova",
-    "section": "",
-    "text": "Quantum computing\n\nI began my research career by analyzing models of confined quantum wells, where I developed a foundation in quantum mechanics and computational techniques. I’ve shifted my focus to quantum computing with dedication of quantum error correction and simulating quantum circuits. I’m commited to contribute to my team’s efforts in advancing quantum software and developing reliable, efficient quantum systems\nPapers:\nORCID 0009-0002-0744-8484"
-  },
-  {
-    "objectID": "homepage/shahla.html#contact",
-    "href": "homepage/shahla.html#contact",
-    "title": "Homepage of Shahla Novruzova",
-    "section": "",
-    "text": "➜ LinkedIn\n➜ shahla dot novruzovaat ut dot ee"
   },
   {
     "objectID": "kvantblog.html",
