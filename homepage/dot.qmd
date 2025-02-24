@@ -53,8 +53,9 @@ My recent papers:
 
 ##### Courses
 
-Teaching in Fall 2024:
+Teaching in Spring 2025:
 
+- `MTAT.07.024` **Quantum Cryptography** (6 ECTS)
 - `LTAT.04.004` **Quantum Seminar** (3 ECTS)
 
 Quantum computing courses I have taught in the past include:
@@ -69,9 +70,8 @@ Quantum computing courses I have taught in the past include:
 
 ## Contact
 
-➜ [LinkedIn](https://www.linkedin.com/in/dirk-oliver-theis-178b8488/)\
-➜ Bluesky [@dojt.bsky.social](https://bsky.app/profile/dojt.bsky.social)\
-➜ `dotheis` [[*dot*]{.small}]{.small} `UTartu` [*at* `ƍ📧` *dot* `com`]{.small}\
-      [(I lose some of the mails sent to my @ut.ee-address.)]{.small}
-
-
+- [LinkedIn](https://www.linkedin.com/in/dirk-oliver-theis-178b8488/) (*mostly* professional, some 🇪🇺🇺🇦🇬🇪)
+- I'm on Bluesky [@dojt.bsky.social](https://bsky.app) (*only* political)
+- I lose some of the mails sent to my Microsoft-managed @ut.ee-address.
+- I'm working on an email solution that's not U.S. owned.  Until then:\
+    `dotheis` [[*dot*]{.small}]{.small} `UTartu` [*at* `ƍ📧` *dot* `com`]{.small} (where the `ƍ` is the 3rd letter in [MAGAt](https://en.wikipedia.org/wiki/Myiasis)).
