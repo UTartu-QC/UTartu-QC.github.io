@@ -39,6 +39,7 @@ My recent papers:
 - Evgenii Dolzhkov: PhD candidate — Quantum (and quantum inspired) algorithms for optimization
 - [Shahla Novruzova](./shahla.qmd): PhD candidate — Quantum error correction & fault-tolerance
 - Anton Perepelenko: BSc candidate — Testing quantum computers
+- Kateryna Turchak: BSc candidate — Testing quantum computers
 
 ##### Past students...
 
@@ -70,8 +71,8 @@ Quantum computing courses I have taught in the past include:
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/dirk-oliver-theis-178b8488/) (*mostly* professional, some 🇪🇺🇺🇦🇬🇪)
-- I'm on Bluesky [@dojt.bsky.social](https://bsky.app) (*only* political)
+- [LinkedIn](https://www.linkedin.com/in/dirk-oliver-theis-178b8488/)
 - I lose some of the mails sent to my Microsoft-managed @ut.ee-address.
 - I'm working on an email solution that's not U.S. owned.  Until then:\
     `dotheis` [[*dot*]{.small}]{.small} `UTartu` [*at* `ƍ📧` *dot* `com`]{.small} (where the `ƍ` is the 3rd letter in [MAGAt](https://en.wikipedia.org/wiki/Myiasis)).
+- I'm on Bluesky
