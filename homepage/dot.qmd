@@ -39,7 +39,6 @@ My recent papers:
 - Evgenii Dolzhkov: PhD candidate — Quantum (and quantum inspired) algorithms for optimization
 - [Shahla Novruzova](./shahla.qmd): PhD candidate — Quantum error correction & fault-tolerance
 - Anton Perepelenko: BSc candidate — Testing quantum computers
-- Kateryna Turchak: BSc candidate — Testing quantum computers
 
 ##### Past students...
 
