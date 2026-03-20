@@ -1,58 +1,107 @@
 #+TITLE: Quantum Computing Group at the University of Tartu, Estonia
-#+SUBTITLE: Institute of Computer Science, Delta mnt 18, 51009 Tartu, Estonia
-#+AUTHOR: 
+#+SUBTITLE: Institute of Computer Science, Delta mnt 18, 51009 Tartu
+#+SUBTITLE: (Room 3027)
+:SET_STUFF_UP:
 #+OPTIONS: toc:nil num:nil html-style:nil
 
+#+HTML_HEAD: <style>.subtitle { font-size: 1.5rem; font-weight: normal; color: #666; margin-top: -0.5em; }</style>
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+#+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+#+HTML_HEAD: <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hide-show.js"></script>
+
+#+STARTUP: show3levels
+
+#+BEGIN_COMMENT
+#+AUTHOR: John
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
 #+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 #+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+#+END_COMMENT
+:END:
 
+* Current Info for Students
 
+**** Quantum Seminar
+- Wed 14-16 for quantum Yodas
+- Wed 16-18 for quantum Skywalkers
+- Delta room 3081
+
+**** IQI
+- Mon 16-18: Delta room 2010
+- Tue 10-12: Delta room 2045
+- Slides & hw assignments: [[https://drive.proton.me/urls/7Z52BCKW08#SaGIwCP4KpoS][Proton cloud folder]]
 
 * Team
-
 *** Shahla Novruzova (PhD student)
-- Quantum error correction
-- Projects: OSQ+100, TK202U7
-- LinkedIn
+Quantum error correction
+- Projects: [[OSQ+100]], [[TK202U7]]
+- Email: First name dot last name at "UT" dot "ee"
+- [[https://linkedin.com/in/shahla-novruzova-513385190][LinkedIn]]
 
 *** Evgenii Dolzhkov (PhD student)
-- Quantum algorithms for combinatorial optimization
-- Projects: NeQst
-- LinkedIn
+Quantum algorithms for combinatorial optimization
+- Projects: [[NeQst]]
+- Email: First name dot last name at "UT" dot "ee"
 
 *** Dr. Veiko Palge (Researcher)
-- Quantum information & quantum physics
-- Projects: OSQ+100
-- LinkedIn
+:PROPERTIES:
+:CUSTOM_ID: VeikoPalge
+:END:
 
-*** Dr. Dirk Oliver Theis
-- Group leader
-- PI of projects: NeQst, OSQ+100, TK202U7
-- Homepage
-- LinkedIn
+Quantum information & quantum physics
+- Projects: [[OSQ+100]]
+- Email: First name dot last name at "UT" dot "ee"
+
+*** Dr. Dirk Oliver Theis (Assoc. Prof.)
+:PROPERTIES:
+:CUSTOM_ID: DOTheis
+:END:
+
+Group leader
+- PI of projects: [[NeQst]], [[OSQ+100]], [[TK202U7]]
+- [[https://kvantarvutid.ee/][Homepage/blog]]
+- [[https://linkedin.com/in/dirk-oliver-theis-178b8488][LinkedIn]]
+
 
 * Projects
+*** OSQ+100
+- /Open Superconducting Quantum Computers/  (Horizon Europe)
+- [[https://www.etis.ee/Portal/Projects/Display/521659e7-fbe6-43b4-97b6-ef8111700c8e][ETIS data sheet]]
 
-- NeQst
-- OSQ+100
-- TK202U7
+*** NeQst
+- Quantum Computing Applied to Industrial Optimization Problems (Research Council of Norway)
+- [[https://www.etis.ee/Portal/Projects/Display/00a35da9-08ad-46ec-ba26-800d62f16a28][ETIS data sheet]]
+
+*** TK202U7
+- Work group # 7 /Quantum Information and Computing/ of the center of excellence [[https://kbfi.ee/en/high-energy-and-computational-physics/centre-of-excellence-foundations-of-the-universe/][Foundatios of the Universe]]
+- [[https://www.etis.ee/Portal/Projects/Display/18986bb0-3f92-4690-b4bf-3120a713f2fd][ETIS data sheet]]
+
 
 * Teaching
-
-*** Lecture course LTAT.04.021 /Introduction to Quantum Information/ ("IQI")
+*** LTAT.04.021 Introduction to Quantum Information ("IQI")
+- Lecture course
 - Spring term
 - Instructor: Theis
 
-*** Lecture course LTFY.04.021 /Fundamentals of Quantum Computing/ ("Funq")
+*** LTFY.03.013 Fundamentals of Quantum Computing ("FunQ")
+- Lecture course
 - Fall term
 - Instructor: Palge
 
 *** LTAT.04.004 Quantum Seminar
+- Meets every Wednesday, semester or not.
 
-*** Micro-degree "Quantum Computing"
+** Micro-degree Quantum Computing
+- Learn quantum computing with only high-school math background
 - Comprises IQI (spring) + FunQ (fall)
-- Start in spring terms
+- Started in spring 2026
+- Inquiries: Program manager [[#VeikoPalge][Veiko Palge]]
+

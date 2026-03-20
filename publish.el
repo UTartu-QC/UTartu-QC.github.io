@@ -3,7 +3,7 @@
 (require 'ox-publish)
 
 (setq org-publish-project-alist
-      '(("my-site-content"
+      '(("utartuqc-page-content"
          :base-directory "./org"          ; where your .org files live
          :base-extension "org"
          :publishing-directory "./docs"   ; output goes here
@@ -26,7 +26,7 @@
          :html-postamble nil)
 
         ;; If you have static files (CSS, images), publish those too
-        ("my-site-static"
+        ("utartuqc-page-static"
          :base-directory "./org/static"
          :base-extension "css\\|js\\|png\\|jpg\\|ico\\|svg"
          :publishing-directory "./docs/static"
@@ -34,8 +34,8 @@
          :publishing-function org-publish-attachment)
 
         ;; Umbrella project that runs both
-        ("my-site"
-         :components ("my-site-content" "my-site-static"))))
+        ("utartuqc-page"
+         :components ("utartuqc-page-content" "utartuqc-page-static"))))
 
 ;; Force republish everything (skip cache)
-(org-publish "my-site" t)
+(org-publish "utartuqc-page" t)
