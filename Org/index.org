@@ -1,0 +1,48 @@
+#+TITLE: Quantum Computing Group at the University of Tartu, Estonia
+#+AUTHOR: 
+#+OPTIONS: toc:nil num:nil html-style:nil
+
+* Team
+
+*** Shahla Novruzova (PhD student)
+- Quantum error correction
+- Projects: OSQ+100, TK202U7
+- LinkedIn
+
+*** Evgenii Dolzhkov (PhD student)
+- Quantum algorithms for combinatorial optimization
+- Projects: NeQst
+- LinkedIn
+
+*** Dr. Veiko Palge (Researcher)
+- Quantum information & quantum physics
+- Projects: OSQ+100
+- LinkedIn
+
+*** Dr. Dirk Oliver Theis
+- Group leader
+- PI of projects: NeQst, OSQ+100, TK202U7
+- Homepage
+- LinkedIn
+
+* Projects
+
+- NeQst
+- OSQ+100
+- TK202U7
+
+* Teaching
+
+*** Lecture course LTAT.04.021 /Introduction to Quantum Information/ ("IQI")
+- Spring term
+- Instructor: Theis
+
+*** Lecture course LTFY.04.021 /Fundamentals of Quantum Computing/ ("Funq")
+- Fall term
+- Instructor: Palge
+
+*** LTAT.04.004 Quantum Seminar
+
+*** Micro-degree "Quantum Computing"
+- Comprises IQI (spring) + FunQ (fall)
+- Start in spring terms
